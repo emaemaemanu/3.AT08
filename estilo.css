@@ -1,5 +1,5 @@
 body {
-  background: #202035;
+  background: #db99d2;
   color: white;
   font-family: Arial, sans-serif;
   text-align: center;
@@ -66,8 +66,8 @@ h1 {
 
 
 #jogador {
-  background: #00ff88;
-  color: #00ff88;
+  background: #54377a;
+  color: #54377a;
   left: 130px;
   top: 310px;
 }

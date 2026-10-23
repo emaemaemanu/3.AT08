@@ -1,13 +1,4 @@
-// Busca os elementos da página.
-const jogador = document.getElementById("jogador");
-const inimigo = document.getElementById("inimigo");
-const placar = document.getElementById("pontos");
-const textoNivel = document.getElementById("nivel");
-const textoCarros = document.getElementById("carros");
-const mensagem = document.getElementById("mensagem");
-
-
-// Faixas: 0 = esquerda, 1 = meio, 2 = direita.
+/, 1 = meio, 2 = direita.
 let faixaJogador = 1;
 let faixaInimigo = 0;
 
